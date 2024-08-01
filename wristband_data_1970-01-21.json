@@ -22,7 +22,7 @@
  },
  {
    "Datetime": "1970-01-21 08:23:55",
-   "Heart Rate": 98,
+   "HeartRate": 98,
    "MinimumHeartRate": 89,
    "MaximumHeartRate": 109,
    "GSRActivity": 0
