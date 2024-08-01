@@ -1,0 +1,37 @@
+[
+ {
+   "Datetime": "1970-01-21 08:23:54",
+   "HeartRate": 79,
+   "MinimumHeartRate": 52,
+   "MaximumHeartRate": 93,
+   "GSRActivity": 0
+ },
+ {
+   "Datetime": "1970-01-21 08:23:55",
+   "HeartRate": 93,
+   "MinimumHeartRate": 88,
+   "MaximumHeartRate": 98,
+   "GSRActivity": 0
+ },
+ {
+   "Datetime": "1970-01-21 08:23:55",
+   "HeartRate": 97,
+   "MinimumHeartRate": 93,
+   "MaximumHeartRate": 105,
+   "GSRActivity": 0
+ },
+ {
+   "Datetime": "1970-01-21 08:23:55",
+   "Heart Rate": 98,
+   "MinimumHeartRate": 89,
+   "MaximumHeartRate": 109,
+   "GSRActivity": 0
+ },
+ {
+   "Datetime": "1970-01-21 08:23:55",
+   "HeartRate": 101,
+   "MinimumHeartRate": 94,
+   "MaximumHeartRate": 105,
+   "GSRActivity": 0
+ }
+]
